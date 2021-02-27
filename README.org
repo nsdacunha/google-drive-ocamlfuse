@@ -1,2 +1,0 @@
-* google-drive-ocamlfuse
-Fedora copr repository for google-drive-ocamlfuse by @astrada. Trying to continue the work started by @sergiomb2. 
